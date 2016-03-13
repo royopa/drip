@@ -5,6 +5,7 @@ PHP library for making token-based API requests against Drip.
 
 [![Build Status](https://travis-ci.org/drewm/drip.svg)](https://travis-ci.org/drewm/drip)
 [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/drewm/drip/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/drewm/drip/?branch=master)
+[![Latest Stable Version](https://poser.pugx.org/drewm/drip/v/stable)](https://packagist.org/packages/drewm/drip) [![Total Downloads](https://poser.pugx.org/drewm/drip/downloads)](https://packagist.org/packages/drewm/drip) [![Latest Unstable Version](https://poser.pugx.org/drewm/drip/v/unstable)](https://packagist.org/packages/drewm/drip) [![License](https://poser.pugx.org/drewm/drip/license)](https://packagist.org/packages/drewm/drip)
 
 ## Install 
 
